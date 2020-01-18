@@ -46,7 +46,7 @@ public class TestLogic {
                 Palindrome.main(args);
                 break;
             case 6:
-                HotDog.main(args);
+                ProgrammerIt.main(args);
                 break;
             default:
                 System.out.println("Nomor yang anda masukkan salah!");
