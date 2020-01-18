@@ -20,6 +20,7 @@ public class PerfectTwo {
                 found = 0;
         int arr[] = {2,7,11,15};
         Scanner scan = new Scanner(System.in);
+        System.out.println("Perfect Two <3");
         System.out.println("nilai array 2,7,11,15");
         System.out.print("Masukkan sebuah angka : ");
         inputAngka = scan.nextInt();
